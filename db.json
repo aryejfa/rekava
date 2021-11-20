@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Tentang 1", "body": "eko jaya fazri ariandi 1" },
+    { "id": 2, "title": "Tentang 2", "body": "eko jaya fazri ariandi 2"  },
+    { "id": 3, "title": "Tentang 3", "body": "eko jaya fazri ariandi 2"  }
+  ],
+  "comments": [
+    { "id": 1, "body": "tentang comment", "postId": 1 },
+    { "id": 2, "body": "tentang comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
